@@ -1,0 +1,23 @@
+{
+  "name": "better-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "csvjson-json2csv": "^1.0.3",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
